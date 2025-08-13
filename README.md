@@ -30,7 +30,7 @@
 
 <h1 align="center">The Open Source Development Environment Manager</h1>
 <div align="center">
-Set up a development environment on any infrastructure, with a single command.
+Set up a professional development environment on any infrastructure, with a single command.
 </div>
 </br>
 
